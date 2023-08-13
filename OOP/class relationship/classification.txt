@@ -1,0 +1,86 @@
+# abstraction
+
+#encapsulation
+
+# data hiding
+
+# inheritence
+
+# polymorphism -> can take many forms
+
+            it has followint types:
+                                *  Coercion
+                                    => 
+                                *  Overloading
+
+                                *  parametric polymorphism
+
+                                * inclusive polymorphism
+
+* inheritence
+       * allows creating classes from existing classes through an IS-A relationship
+
+        *  if Class B inherits from class A then B is called the specialization  of generalised class  A
+  
+        * Class A is called the base class
+
+        imp features:
+                1.code reuse 
+                2. subtyping 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+

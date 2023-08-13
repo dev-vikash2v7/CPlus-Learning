@@ -1,0 +1,7 @@
+                CLASS MEMBER
+* an optional member list of all sub-objects are called class member.
+
+1.public - they can be accessed only from membets of its same class Fraction  or from its friends. they can be manipulated by the publicaly accessible interface setvalue and getvalue.
+ 
+2.private - 
+3.protected
